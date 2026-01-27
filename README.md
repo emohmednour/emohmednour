@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/USERNAME_HERE?v=4" width="150" alt="Profile Picture"/>
+  <!-- <img src="https://avatars.githubusercontent.com/u/USERNAME_HERE?v=4" width="150" alt="Profile Picture"/> -->
 </p>
 
 <h1 align="center">Hi, I'm Mohamed Nour</h1>
