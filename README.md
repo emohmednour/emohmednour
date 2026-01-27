@@ -40,7 +40,7 @@
 ---
 
 ## 📊 GitHub Stats
-<!-- <p align="center">
+ <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=emohmednour&theme=dark&show_icons=true&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emohmednour&theme=dark&layout=compact&hide_border=false" />
 </p>
@@ -49,14 +49,14 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=emohmednour&theme=dark&no-bg=true" /> -->
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=emohmednour&theme=dark&no-bg=true" /> -->
 </p>
 
 ---
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emohmednour&theme=dark" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=emohmednour&theme=dark" /> -->
 </p>
 
 ---
