@@ -1,69 +1,63 @@
-# 💫 About Me
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/USERNAME_HERE?v=4" width="150" alt="Profile Picture"/>
+</p>
 
-Hi — I'm **Mohamed (محمد نور)**, a Backend Developer focused on **.NET**.  
-I like building clean, maintainable systems and learning modern backend architectures.  
-أحب كتابة كود نظيف وقابل للصيانة واستكشاف أحدث طرق بناء الـ Backend باستخدام .NET.
+<h1 align="center">Hi, I'm Mohamed Nour</h1>
+<p align="center">Backend Developer | .NET | ASP.NET Core</p>
+<p align="center">أحب كتابة كود نظيف وقابل للصيانة واستكشاف أحدث طرق بناء الـ Backend باستخدام .NET</p>
 
-**🔭 Currently:** Improving ASP.NET Core projects, Claims-based auth, and Clean Architecture.  
-**🌱 Learning:** Advanced ASP.NET Core patterns, CQRS, and scalable APIs.  
-**💬 Languages:** Arabic (native) • English (professional)
-
----
-
-## 🌐 Socials
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/emohmednour) 
-[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/emohmednour) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/mohamed.nourelden.92) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mohamed_nour_eldin0) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-nour-eldin0) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emohmednour@gmail.com)
-
-> **ملاحظة:** لو في أي لينك مش صحيح رجاءً غيّره للينك الصح عندك — استبدل `emohmednour` أو الأسماء باللينكات الفعلية لو مختلفة.
-
----
-
-# 💻 Tech Stack
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
-![.NET](https://img.shields.io/badge/.NET-5C2D91.svg?style=for-the-badge&logo=.net&logoColor=white) 
-![EF Core](https://img.shields.io/badge/Entity__Framework_Core-339933.svg?style=for-the-badge&logo=dotnet&logoColor=white) 
-![SQL Server](https://img.shields.io/badge/MSSQL-CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3670A0.svg?style=for-the-badge&logo=python&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-nour-eldin0/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://facebook.com/mohamed.nourelden.92">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://instagram.com/mohamed_nour_eldin0">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:emohmednour@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 ---
 
-## 🔧 Tools & Practices
-- Clean Architecture • Dependency Injection • Unit / Integration Testing  
-- Git (feature branches, PRs, semantic commits) • CI / CD with GitHub Actions  
-- Docker (basic), EF Core migrations, Swagger / OpenAPI
+## 🛠️ Skills & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-5C2D91.svg?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-339933.svg?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3670A0.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=emohmednour&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=emohmednour&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=emohmednour&theme=dark&layout=compact&hide_border=false)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=emohmednour&theme=dark&show_icons=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emohmednour&theme=dark&layout=compact&hide_border=false" />
+</p>
 
 ---
 
-## 🚀 What I'm working on
-- Rewriting authentication flow to claims-based design in an ASP.NET Core API.  
-- Building a sample project with Clean Architecture + layered tests.
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=emohmednour&theme=dark&no-bg=true" />
+</p>
 
 ---
 
-## 🤝 Open to
-- Collaboration on backend APIs, .NET migrations, and performance tuning.  
-- Contract / freelance backend work (remote).
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emohmednour&theme=dark" />
+</p>
 
 ---
 
-## ⚡ Fun fact
-I like turning messy legacy code into clean, testable APIs — it's oddly satisfying 😄
-
----
-
-<!-- Optional: Proudly created with GPRM — remove this line if you don't want the credit -->
+> ⚡ Fun fact: I love turning messy legacy code into clean, testable APIs — it's oddly satisfying 😄
