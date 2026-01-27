@@ -7,6 +7,7 @@
 <p align="center">أحب كتابة كود نظيف وقابل للصيانة واستكشاف أحدث طرق بناء الـ Backend باستخدام .NET</p>
 
 <p align="center">
+  <!-- Socials -->
   <a href="https://www.linkedin.com/in/mohamed-nour-eldin0/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
